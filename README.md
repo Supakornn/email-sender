@@ -35,7 +35,6 @@
 
 # Example
 
-![](https://cdn.discordapp.com/attachments/740561017083527179/955412591029665792/unknown.png)
 
 ![](https://cdn.discordapp.com/attachments/740561017083527179/955412590815760384/unknown.png)
 
